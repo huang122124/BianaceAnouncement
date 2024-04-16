@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+proxy_seller_user_api==1.0.4
+Requests==2.31.0
+urllib3==1.26.15
