@@ -20,8 +20,6 @@ from LogHelper import *
 
 # url = "https://www.binance.com/bapi/composite/v1/public/market/notice/get?page=1&rows=10"
 url = ""
-# proxy= {'https': 'http://efajwwhm:yii3oiijtbfy@45.252.57.170:6615'}
-# proxy = {'https': 'overseas.tunnel.qg.net:14459'}
 # proxy = {'https': 'http://127.0.0.1:7890'}
 # catalogs index
 New_Cryptocurrency_Listing = 0
